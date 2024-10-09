@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://everphro.github.io/sitemap.html.gz
+Sitemap: https://everphro.github.io/app/sitemap.html.gz
+Sitemap: https://everphro.github.io/assets/sitemap.html.gz
+Sitemap: https://everphro.github.io/css/sitemap.html.gz
+Sitemap: https://everphro.github.io/includes/sitemap.html.gz
+Sitemap: https://everphro.github.io/item/sitemap.html.gz
+Sitemap: https://everphro.github.io/src/sitemap.html.gz
